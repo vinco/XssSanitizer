@@ -13,3 +13,5 @@ target
 out
 plugin.xml
 grails-xss-sanitizer-*.zip
+.DS_Store
+
